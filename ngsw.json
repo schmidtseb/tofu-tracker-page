@@ -1,0 +1,127 @@
+{
+  "configVersion": 1,
+  "timestamp": 1774561200748,
+  "index": "/tofu-tracker/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/tofu-tracker/chunk-2LTRWR2C.js",
+        "/tofu-tracker/chunk-2ZZBV5W4.js",
+        "/tofu-tracker/chunk-33K5VERD.js",
+        "/tofu-tracker/chunk-4MZ4W6K7.js",
+        "/tofu-tracker/chunk-63HUQHX7.js",
+        "/tofu-tracker/chunk-6N2ZAQNA.js",
+        "/tofu-tracker/chunk-6UKSJFVK.js",
+        "/tofu-tracker/chunk-ALNKH4P7.js",
+        "/tofu-tracker/chunk-AYCEL4XN.js",
+        "/tofu-tracker/chunk-GLGMYUWT.js",
+        "/tofu-tracker/chunk-IC6YI7K2.js",
+        "/tofu-tracker/chunk-IEBMZSWO.js",
+        "/tofu-tracker/chunk-JKM4UJYV.js",
+        "/tofu-tracker/chunk-JQ2JC6TT.js",
+        "/tofu-tracker/chunk-MACLNFZI.js",
+        "/tofu-tracker/chunk-PZ56XOXQ.js",
+        "/tofu-tracker/chunk-QEKJBLT5.js",
+        "/tofu-tracker/chunk-RLL6AY6L.js",
+        "/tofu-tracker/chunk-UG3NMWRP.js",
+        "/tofu-tracker/chunk-UXGDHGUZ.js",
+        "/tofu-tracker/chunk-VDL6BJVZ.js",
+        "/tofu-tracker/chunk-XICVBP4D.js",
+        "/tofu-tracker/chunk-ZNNH2R42.js",
+        "/tofu-tracker/favicon.ico",
+        "/tofu-tracker/index.html",
+        "/tofu-tracker/main-H5YG2PQA.js",
+        "/tofu-tracker/manifest.webmanifest",
+        "/tofu-tracker/styles-J6L2262G.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/tofu-tracker/icons/apple-touch-icon.png",
+        "/tofu-tracker/icons/icon-128x128.png",
+        "/tofu-tracker/icons/icon-144x144.png",
+        "/tofu-tracker/icons/icon-152x152.png",
+        "/tofu-tracker/icons/icon-192x192.png",
+        "/tofu-tracker/icons/icon-384x384.png",
+        "/tofu-tracker/icons/icon-512x512.png",
+        "/tofu-tracker/icons/icon-72x72.png",
+        "/tofu-tracker/icons/icon-96x96.png",
+        "/tofu-tracker/splash/splash-screen.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/tofu-tracker/chunk-2LTRWR2C.js": "c8252b17ce3a2bcaa96e118ec52554a8b83bb8d9",
+    "/tofu-tracker/chunk-2ZZBV5W4.js": "6d2a03f1c3e3dbe0afd7184c970405c9686ce65f",
+    "/tofu-tracker/chunk-33K5VERD.js": "fb06efe0f2b69ce4dbc7a7aaab2b135945749eac",
+    "/tofu-tracker/chunk-4MZ4W6K7.js": "9b3ee2762f4129d2cfc84f48db6032d57f457210",
+    "/tofu-tracker/chunk-63HUQHX7.js": "44777d51a6c288479895cb345d42b890ef16ffb7",
+    "/tofu-tracker/chunk-6N2ZAQNA.js": "fd9398d57c3bd8973b23abe756bc217262b6bd02",
+    "/tofu-tracker/chunk-6UKSJFVK.js": "7be9db6209032636a80b34188ada9083d108a779",
+    "/tofu-tracker/chunk-ALNKH4P7.js": "d18cd8befe30a83d71fe1b980eaaeec9c5081330",
+    "/tofu-tracker/chunk-AYCEL4XN.js": "489cdd2b315f35f09411afff816cfe63866ec229",
+    "/tofu-tracker/chunk-GLGMYUWT.js": "701e0d18b818f32ed7b26a78d23b7cd3864db9af",
+    "/tofu-tracker/chunk-IC6YI7K2.js": "66bcf15fd0c7502eecef08b0bd3c9f0b785541c6",
+    "/tofu-tracker/chunk-IEBMZSWO.js": "e3c8e327fbbb998d6a7b9ce8873cd1f98ef81847",
+    "/tofu-tracker/chunk-JKM4UJYV.js": "801a7256650e7904d59f18bea0cd4e94ca4bbafa",
+    "/tofu-tracker/chunk-JQ2JC6TT.js": "a92aa2646e25993831885ca32803e46b2fc0c13b",
+    "/tofu-tracker/chunk-MACLNFZI.js": "1993f0ae7139f42bf9c7b52b8a97937462830220",
+    "/tofu-tracker/chunk-PZ56XOXQ.js": "5ff3e43986e91520c7a869e87da42b670bee4f64",
+    "/tofu-tracker/chunk-QEKJBLT5.js": "3d5adbeabbecf54c7e31fbef041c01fcda986622",
+    "/tofu-tracker/chunk-RLL6AY6L.js": "827d7a383012c90be954b543a33b9ba6eff20f28",
+    "/tofu-tracker/chunk-UG3NMWRP.js": "ca70bc07226b2175a97018fb8445b136e5ef15a6",
+    "/tofu-tracker/chunk-UXGDHGUZ.js": "5638b34406c75ef49b4e03052c4711f47fbdbcb5",
+    "/tofu-tracker/chunk-VDL6BJVZ.js": "d80547da6e7a5d3a532d3b6608553d8760ca45bc",
+    "/tofu-tracker/chunk-XICVBP4D.js": "9edc8be647bb20435154f329b485932510912149",
+    "/tofu-tracker/chunk-ZNNH2R42.js": "5dccfab92c98e4176bc2ed13d3c7a1004ed04572",
+    "/tofu-tracker/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/tofu-tracker/icons/apple-touch-icon.png": "1da7df7ae4332e8e53e66468372ec2ec536eff9c",
+    "/tofu-tracker/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/tofu-tracker/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/tofu-tracker/icons/icon-152x152.png": "4178ed74a8098d0797b3c22103237b77ab8d766c",
+    "/tofu-tracker/icons/icon-192x192.png": "2946ad88f74cdee3b1dca1e24e5d0ea616e7f4a2",
+    "/tofu-tracker/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/tofu-tracker/icons/icon-512x512.png": "73d14eea9989230aaa726a0772e61e44d689a40f",
+    "/tofu-tracker/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/tofu-tracker/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/tofu-tracker/index.html": "33e8b764257e8e2af6ebf14004ee82e0712735c5",
+    "/tofu-tracker/main-H5YG2PQA.js": "eb2032c7fdafb74ed985f2a0bab6820023f0e7ea",
+    "/tofu-tracker/manifest.webmanifest": "4721a25816021e3a35ce974251e19fba0041ead7",
+    "/tofu-tracker/splash/splash-screen.png": "9b9052e9549802babbfd307b48f71492ef7bb89e",
+    "/tofu-tracker/styles-J6L2262G.css": "c8da5c06a148ca0af5d3af095d4f1939288fab14"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
