@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1774561690240,
-  "index": "/tofu-tracker/index.html",
+  "timestamp": 1774561889634,
+  "index": "/tofu-tracker-page/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -11,9 +11,9 @@
         "ignoreVary": true
       },
       "urls": [
-        "/tofu-tracker/favicon.ico",
-        "/tofu-tracker/index.html",
-        "/tofu-tracker/manifest.webmanifest"
+        "/tofu-tracker-page/favicon.ico",
+        "/tofu-tracker-page/index.html",
+        "/tofu-tracker-page/manifest.webmanifest"
       ],
       "patterns": []
     },
@@ -25,35 +25,35 @@
         "ignoreVary": true
       },
       "urls": [
-        "/tofu-tracker/icons/apple-touch-icon.png",
-        "/tofu-tracker/icons/icon-128x128.png",
-        "/tofu-tracker/icons/icon-144x144.png",
-        "/tofu-tracker/icons/icon-152x152.png",
-        "/tofu-tracker/icons/icon-192x192.png",
-        "/tofu-tracker/icons/icon-384x384.png",
-        "/tofu-tracker/icons/icon-512x512.png",
-        "/tofu-tracker/icons/icon-72x72.png",
-        "/tofu-tracker/icons/icon-96x96.png",
-        "/tofu-tracker/splash/splash-screen.png"
+        "/tofu-tracker-page/icons/apple-touch-icon.png",
+        "/tofu-tracker-page/icons/icon-128x128.png",
+        "/tofu-tracker-page/icons/icon-144x144.png",
+        "/tofu-tracker-page/icons/icon-152x152.png",
+        "/tofu-tracker-page/icons/icon-192x192.png",
+        "/tofu-tracker-page/icons/icon-384x384.png",
+        "/tofu-tracker-page/icons/icon-512x512.png",
+        "/tofu-tracker-page/icons/icon-72x72.png",
+        "/tofu-tracker-page/icons/icon-96x96.png",
+        "/tofu-tracker-page/splash/splash-screen.png"
       ],
       "patterns": []
     }
   ],
   "dataGroups": [],
   "hashTable": {
-    "/tofu-tracker/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/tofu-tracker/icons/apple-touch-icon.png": "1da7df7ae4332e8e53e66468372ec2ec536eff9c",
-    "/tofu-tracker/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
-    "/tofu-tracker/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
-    "/tofu-tracker/icons/icon-152x152.png": "4178ed74a8098d0797b3c22103237b77ab8d766c",
-    "/tofu-tracker/icons/icon-192x192.png": "2946ad88f74cdee3b1dca1e24e5d0ea616e7f4a2",
-    "/tofu-tracker/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
-    "/tofu-tracker/icons/icon-512x512.png": "73d14eea9989230aaa726a0772e61e44d689a40f",
-    "/tofu-tracker/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
-    "/tofu-tracker/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/tofu-tracker/index.html": "ab61599909e272bb974aeeb531baaf79d7ba708b",
-    "/tofu-tracker/manifest.webmanifest": "4721a25816021e3a35ce974251e19fba0041ead7",
-    "/tofu-tracker/splash/splash-screen.png": "9b9052e9549802babbfd307b48f71492ef7bb89e"
+    "/tofu-tracker-page/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
+    "/tofu-tracker-page/icons/apple-touch-icon.png": "1da7df7ae4332e8e53e66468372ec2ec536eff9c",
+    "/tofu-tracker-page/icons/icon-128x128.png": "f912963bdc6d5a38d8f1dd0afbaab2ce8d657acb",
+    "/tofu-tracker-page/icons/icon-144x144.png": "b155fd5f2fd5d2ea7760721063003c4cd95fd783",
+    "/tofu-tracker-page/icons/icon-152x152.png": "4178ed74a8098d0797b3c22103237b77ab8d766c",
+    "/tofu-tracker-page/icons/icon-192x192.png": "2946ad88f74cdee3b1dca1e24e5d0ea616e7f4a2",
+    "/tofu-tracker-page/icons/icon-384x384.png": "94a915751ef6c9282df9aea405ad679230631814",
+    "/tofu-tracker-page/icons/icon-512x512.png": "73d14eea9989230aaa726a0772e61e44d689a40f",
+    "/tofu-tracker-page/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
+    "/tofu-tracker-page/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
+    "/tofu-tracker-page/index.html": "eea04c0327f84f4e3ed6a11e9d3443bcf0d20ddc",
+    "/tofu-tracker-page/manifest.webmanifest": "4721a25816021e3a35ce974251e19fba0041ead7",
+    "/tofu-tracker-page/splash/splash-screen.png": "9b9052e9549802babbfd307b48f71492ef7bb89e"
   },
   "navigationUrls": [
     {
